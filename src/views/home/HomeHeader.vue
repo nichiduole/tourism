@@ -22,7 +22,7 @@ export default {
 <style lang="less">
   .header {
     display: flex;
-    background-color: #FFD000;
+    background-color: rgb(255,207,72);
     height: 44px;
     line-height: 44px;
     color: #fff;
@@ -32,7 +32,6 @@ export default {
     text-align: center;
     
     img {
-      vertical-align: middle;
       width: 24px;
       height: 24px;
     }
@@ -67,7 +66,6 @@ export default {
     img {
       width: 20px;
       height: 20px;
-      vertical-align: middle;
       margin: -5px 0 0 -5px;
     }
   }
