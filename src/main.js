@@ -3,9 +3,7 @@ import App from './App.vue'
 import router from './router'
 import store from './store'
 import '@/assets/css/normalize.css'
-// import '@/utils/swiper.js'
-// import VueAwesomeSwiper from 'vue-awesome-swiper'
-// Vue.use(VueAwesomeSwiper)
+import '@/assets/css/myself.css'
 import VueAwesomeSwiper from 'vue-awesome-swiper';
 import 'swiper/swiper-bundle.css'
 Vue.use(VueAwesomeSwiper)

@@ -1,74 +1,80 @@
 <template>
   <div>
-    <div class="main-title">
+    <header class="main-title">
       <span>热门游记</span>
-    </div>
+    </header>
     <main>
       <div class="article">
         <img src="~@/assets/home/article/1.jpg">
         <div class="content">
-          <div class="title">一车三人五千公里一万元！十一字描述完我们的国庆青甘大环线自驾游。</div>
-          <div class="words">其实本次旅行我们半年以前就开始策划了，原因是我们去过大山海洋草原高原，就差沙漠了，搜了一圈发现青甘大环线非常适合我们，于是趁国庆我们凑够十天，从 成都 出发，到 兰州 - 武威 - 张掖 -嘉峪关- 敦煌 - 大柴旦 - 西宁 - 若尔盖 ，最后回到 成都 这样的路线。</div>
+          <div class="title line">一车三人五千公里一万元！十一字描述完我们的国庆青甘大环线自驾游。</div>
+          <div class="words lines">其实本次旅行我们半年以前就开始策划了，原因是我们去过大山海洋草原高原，就差沙漠了，搜了一圈发现青甘大环线非常适合我们，于是趁国庆我们凑够十天，从 成都 出发，到 兰州 - 武威 - 张掖 -嘉峪关- 敦煌 - 大柴旦 - 西宁 - 若尔盖 ，最后回到 成都 这样的路线。</div>
           <div class="bottom">
             <span class="left">2056浏览</span>
             <span class="right">彼岸之空</span>
           </div>
         </div>
-      </div><div class="article">
+      </div>
+      <div class="article">
         <img src="~@/assets/home/article/1.jpg">
         <div class="content">
-          <div class="title">一车三人五千公里一万元！十一字描述完我们的国庆青甘大环线自驾游。</div>
-          <div class="words">其实本次旅行我们半年以前就开始策划了，原因是我们去过大山海洋草原高原，就差沙漠了，搜了一圈发现青甘大环线非常适合我们，于是趁国庆我们凑够十天，从 成都 出发，到 兰州 - 武威 - 张掖 -嘉峪关- 敦煌 - 大柴旦 - 西宁 - 若尔盖 ，最后回到 成都 这样的路线。</div>
+          <div class="title line">一车三人五千公里一万元！十一字描述完我们的国庆青甘大环线自驾游。</div>
+          <div class="words lines">其实本次旅行我们半年以前就开始策划了，原因是我们去过大山海洋草原高原，就差沙漠了，搜了一圈发现青甘大环线非常适合我们，于是趁国庆我们凑够十天，从 成都 出发，到 兰州 - 武威 - 张掖 -嘉峪关- 敦煌 - 大柴旦 - 西宁 - 若尔盖 ，最后回到 成都 这样的路线。</div>
           <div class="bottom">
             <span class="left">2056浏览</span>
             <span class="right">彼岸之空</span>
           </div>
         </div>
-      </div><div class="article">
+      </div>
+      <div class="article">
         <img src="~@/assets/home/article/1.jpg">
         <div class="content">
-          <div class="title">一车三人五千公里一万元！十一字描述完我们的国庆青甘大环线自驾游。</div>
-          <div class="words">其实本次旅行我们半年以前就开始策划了，原因是我们去过大山海洋草原高原，就差沙漠了，搜了一圈发现青甘大环线非常适合我们，于是趁国庆我们凑够十天，从 成都 出发，到 兰州 - 武威 - 张掖 -嘉峪关- 敦煌 - 大柴旦 - 西宁 - 若尔盖 ，最后回到 成都 这样的路线。</div>
+          <div class="title line">一车三人五千公里一万元！十一字描述完我们的国庆青甘大环线自驾游。</div>
+          <div class="words lines">其实本次旅行我们半年以前就开始策划了，原因是我们去过大山海洋草原高原，就差沙漠了，搜了一圈发现青甘大环线非常适合我们，于是趁国庆我们凑够十天，从 成都 出发，到 兰州 - 武威 - 张掖 -嘉峪关- 敦煌 - 大柴旦 - 西宁 - 若尔盖 ，最后回到 成都 这样的路线。</div>
           <div class="bottom">
             <span class="left">2056浏览</span>
             <span class="right">彼岸之空</span>
           </div>
         </div>
-      </div><div class="article">
+      </div>
+      <div class="article">
         <img src="~@/assets/home/article/1.jpg">
         <div class="content">
-          <div class="title">一车三人五千公里一万元！十一字描述完我们的国庆青甘大环线自驾游。</div>
-          <div class="words">其实本次旅行我们半年以前就开始策划了，原因是我们去过大山海洋草原高原，就差沙漠了，搜了一圈发现青甘大环线非常适合我们，于是趁国庆我们凑够十天，从 成都 出发，到 兰州 - 武威 - 张掖 -嘉峪关- 敦煌 - 大柴旦 - 西宁 - 若尔盖 ，最后回到 成都 这样的路线。</div>
+          <div class="title line">一车三人五千公里一万元！十一字描述完我们的国庆青甘大环线自驾游。</div>
+          <div class="words lines">其实本次旅行我们半年以前就开始策划了，原因是我们去过大山海洋草原高原，就差沙漠了，搜了一圈发现青甘大环线非常适合我们，于是趁国庆我们凑够十天，从 成都 出发，到 兰州 - 武威 - 张掖 -嘉峪关- 敦煌 - 大柴旦 - 西宁 - 若尔盖 ，最后回到 成都 这样的路线。</div>
           <div class="bottom">
             <span class="left">2056浏览</span>
             <span class="right">彼岸之空</span>
           </div>
         </div>
-      </div><div class="article">
+      </div>
+      <div class="article">
         <img src="~@/assets/home/article/1.jpg">
         <div class="content">
-          <div class="title">一车三人五千公里一万元！十一字描述完我们的国庆青甘大环线自驾游。</div>
-          <div class="words">其实本次旅行我们半年以前就开始策划了，原因是我们去过大山海洋草原高原，就差沙漠了，搜了一圈发现青甘大环线非常适合我们，于是趁国庆我们凑够十天，从 成都 出发，到 兰州 - 武威 - 张掖 -嘉峪关- 敦煌 - 大柴旦 - 西宁 - 若尔盖 ，最后回到 成都 这样的路线。</div>
+          <div class="title line">一车三人五千公里一万元！十一字描述完我们的国庆青甘大环线自驾游。</div>
+          <div class="words lines">其实本次旅行我们半年以前就开始策划了，原因是我们去过大山海洋草原高原，就差沙漠了，搜了一圈发现青甘大环线非常适合我们，于是趁国庆我们凑够十天，从 成都 出发，到 兰州 - 武威 - 张掖 -嘉峪关- 敦煌 - 大柴旦 - 西宁 - 若尔盖 ，最后回到 成都 这样的路线。</div>
           <div class="bottom">
             <span class="left">2056浏览</span>
             <span class="right">彼岸之空</span>
           </div>
         </div>
-      </div><div class="article">
+      </div>
+      <div class="article">
         <img src="~@/assets/home/article/1.jpg">
         <div class="content">
-          <div class="title">一车三人五千公里一万元！十一字描述完我们的国庆青甘大环线自驾游。</div>
-          <div class="words">其实本次旅行我们半年以前就开始策划了，原因是我们去过大山海洋草原高原，就差沙漠了，搜了一圈发现青甘大环线非常适合我们，于是趁国庆我们凑够十天，从 成都 出发，到 兰州 - 武威 - 张掖 -嘉峪关- 敦煌 - 大柴旦 - 西宁 - 若尔盖 ，最后回到 成都 这样的路线。</div>
+          <div class="title line">一车三人五千公里一万元！十一字描述完我们的国庆青甘大环线自驾游。</div>
+          <div class="words lines">其实本次旅行我们半年以前就开始策划了，原因是我们去过大山海洋草原高原，就差沙漠了，搜了一圈发现青甘大环线非常适合我们，于是趁国庆我们凑够十天，从 成都 出发，到 兰州 - 武威 - 张掖 -嘉峪关- 敦煌 - 大柴旦 - 西宁 - 若尔盖 ，最后回到 成都 这样的路线。</div>
           <div class="bottom">
             <span class="left">2056浏览</span>
             <span class="right">彼岸之空</span>
           </div>
         </div>
-      </div><div class="article">
+      </div>
+      <div class="article">
         <img src="~@/assets/home/article/1.jpg">
         <div class="content">
-          <div class="title">一车三人五千公里一万元！十一字描述完我们的国庆青甘大环线自驾游。</div>
-          <div class="words">其实本次旅行我们半年以前就开始策划了，原因是我们去过大山海洋草原高原，就差沙漠了，搜了一圈发现青甘大环线非常适合我们，于是趁国庆我们凑够十天，从 成都 出发，到 兰州 - 武威 - 张掖 -嘉峪关- 敦煌 - 大柴旦 - 西宁 - 若尔盖 ，最后回到 成都 这样的路线。</div>
+          <div class="title line">一车三人五千公里一万元！十一字描述完我们的国庆青甘大环线自驾游。</div>
+          <div class="words lines">其实本次旅行我们半年以前就开始策划了，原因是我们去过大山海洋草原高原，就差沙漠了，搜了一圈发现青甘大环线非常适合我们，于是趁国庆我们凑够十天，从 成都 出发，到 兰州 - 武威 - 张掖 -嘉峪关- 敦煌 - 大柴旦 - 西宁 - 若尔盖 ，最后回到 成都 这样的路线。</div>
           <div class="bottom">
             <span class="left">2056浏览</span>
             <span class="right">彼岸之空</span>
@@ -98,15 +104,11 @@
 <script>
 export default {
   name: 'HomeTravels',
-  data () {
-    return {
-    };
-  },
 }
 
 </script>
 <style lang='less' scoped>
-  .main-title {
+  header {
     border-left: 4px solid #FFCF48;
     height: 30px;
     margin: 15px 0 0px 15px;
@@ -132,18 +134,11 @@ export default {
     height: 90px;
     flex: 1;
     .title {
-      overflow: hidden;
-      white-space: nowrap;
-      text-overflow: ellipsis;
       padding-left: 10px;
       color: #ffbb00;
     }
     .words {
       padding-left: 10px;
-      display: -webkit-box;
-      -webkit-box-orient: vertical;
-      -webkit-line-clamp: 2;
-      overflow: hidden;
       margin-top: 10px;
       font-size: 14px;
     }

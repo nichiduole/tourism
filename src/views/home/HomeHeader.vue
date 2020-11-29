@@ -1,5 +1,5 @@
 <template>
-  <div class="header">
+  <header>
     <div class="left">
       <img src="~@/assets/home/header/1.png" alt="">
     </div>
@@ -10,7 +10,7 @@
     <div class="right">搜索
       <img src="~@/assets/home/header/3.png" alt="">
     </div>
-  </div>
+  </header>
 </template>
 
 <script>
@@ -19,8 +19,8 @@ export default {
 };
 </script>
 
-<style lang="less">
-  .header {
+<style lang="less" scoped>
+  header {
     display: flex;
     background-color: rgb(255,207,72);
     height: 44px;
