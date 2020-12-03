@@ -4,6 +4,7 @@
     <home-swiper></home-swiper>
     <home-recommend></home-recommend>
     <home-travels></home-travels>
+    getData()
   </div>
 </template>
 
